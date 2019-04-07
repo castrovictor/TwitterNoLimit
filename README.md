@@ -5,6 +5,10 @@ while with my script I have been able to download all the ~11k tweets of a user'
 ### Project status
 This repository is under development. I will try to improve it, but I have very little free time due to my university studies.
 
+### Project scope
++ Learn Python, web scraping and web automation
++ Try to create Twitter accounts working as normal users, getting followers (trying followback technique), completely automatic.
+
 ### Important
 While I was working in this project, a new version of Twitter interface appeared. Possibly, minor modifications will be necessary to work with it.
 Nevertheless, this new version has to be selected manually.
